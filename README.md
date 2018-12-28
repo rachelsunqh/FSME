@@ -1,4 +1,16 @@
 # FSME
+
+20181228 Kali GNU/Linux Rolling 编译通过（修改了几处，下一步就是用了）
+
+qmake -o Makefile fsme.pro
+
+make
+
+就可以使用了
+
+
+
+
 20181228:24
 
 
