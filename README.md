@@ -1,5 +1,13 @@
 # FSME
 
+首先FSME生成fsm文件，如t1.fsm
+
+然后FSMC利用t1.fsm生成t1.h文件（https://github.com/rachelsunqh/FSMC） 参考readme文件
+
+
+-------------------------------------------------------------------------------
+编译：
+
 20181228 Kali GNU/Linux Rolling 编译通过（修改了几处，下一步就是用了）
 
 qmake -o Makefile fsme.pro
